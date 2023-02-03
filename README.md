@@ -1,4 +1,17 @@
-### Hi there 👋
+## Привет! Меня зовут Алексей, я Python разработчик.
+
+
+### Мой стек: Python, Django, DRF, HTML, CSS, JavaScript, Docker ...
+
+
+- 🔭 сейчас разрабатываю web-приложение для автоматизации процессов производственного предприятия.
+- 🌱 буду изучать: Flask, FastAPI, MongoDB
+
+
+### 📫 Контакты:
+- Telegram - <a href="https://t.me/kr_aleksey28" target="_blank">kr_aleksey28</a>
+- Mail - [kravtsun.aleksey@gmail.com](mailto:kravtsun.aleksey@gmail.com)
+
 
 <!--
 **kr-aleksey/kr-aleksey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
